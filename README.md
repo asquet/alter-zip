@@ -1,3 +1,10 @@
+Archive/unarchive based on [zip.js](https://github.com/gildas-lormeau/zip.js) - an old school lib. It is based on callbacks and cannot be installed with npm. But it works with web workers out of the box and has some usefull convenience methods. 
+
+[JsZip](https://github.com/Stuk/jszip/) is another lib. It is easier to use and it can be installed and imported as a module, but there are no web workers. 
+Probably worth taking a look.
+
+## Default readme follows ##
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
